@@ -1,0 +1,8 @@
+dedupe==3.0.3
+dedupe-Levenshtein-search==1.4.5
+Flask==2.3.2
+pandas==2.2.3
+pymysql==1.1.1
+openpyxl==3.1.5
+unidecode==1.4.0
+pyarmor==9.1.7
